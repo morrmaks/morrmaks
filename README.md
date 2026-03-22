@@ -54,7 +54,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#morrmaks-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+        <img src="https://brandeps.com/icon-download/n/npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
     </td>
@@ -79,7 +79,7 @@
   <tr>
      <td align="center" width="110" height="90"> 
       <a href="#morrmaks-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://brandeps.com/icon-download/j/jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
       </a>
       <br>Jest
     </td>
@@ -91,7 +91,7 @@
     </td>
         <td align="center" width="110" height="90"> 
       <a href="#morrmaks-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+        <img src="https://brandeps.com/icon-download/s/storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
       <br>storybook
     </td>
@@ -116,19 +116,19 @@
   <tr>
      <td align="center" width="110" height="90">
       <a href="#morrmaks-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
+        <img src="https://brandeps.com/icon-download/e/eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>eslint
     </td>
     <td align="center" width="110" height="90">
       <a href="#morrmaks-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+        <img src="https://brandeps.com/icon-download/p/prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
     </td>
         <td align="center" width="110" height="90">
       <a href="#morrmaks-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="stylelint" />
+        <img src="https://brandeps.com/logo-download/s/stylelint-logo-vector-01.svg" width="36" height="36" alt="stylelint" />
       </a>
       <br>stylelint
     </td>
